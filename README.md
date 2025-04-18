@@ -1,6 +1,5 @@
 # 🚗 Traffic Volume Prediction using Deep Learning
 
-![Traffic](traffic.png)
 
 This project is a part of a DataCamp assignment where the goal is to develop a time-series model that predicts hourly traffic volume on an interstate highway using deep learning techniques.
 
